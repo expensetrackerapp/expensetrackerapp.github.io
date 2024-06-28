@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /#/home/1
+Allow: /#/expense-list/1
+Allow: /#/expense-list-by-category/10002/1
+Disallow: /#/sync
+Sitemap: https://expensetrackerapp.github.io/sitemap.xml
